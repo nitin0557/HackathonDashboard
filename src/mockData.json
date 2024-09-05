@@ -1,0 +1,109 @@
+  {
+    "challenges":[
+    {
+      "id": 1,
+      "challengeName": "AI Image Classification Challenge",
+      "startDate": "2024-09-01",
+      "endDate": "2024-09-30",
+      "description": "A challenge to classify images using AI and machine learning techniques. Participants are required to build a model that can accurately categorize a dataset of images.",
+      "image": "https://picsum.photos/300/300?random=1",
+      "levelType": "Medium",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "challengeName": "Natural Language Processing Hackathon",
+      "startDate": "2024-10-01",
+      "endDate": "2024-10-15",
+      "description": "An NLP challenge where participants need to build models for sentiment analysis on a dataset of social media posts.",
+      "image": "https://picsum.photos/300/300?random=2",
+      "levelType": "Hard",
+      "status": "Active"
+
+    },
+    {
+      "id": 3,
+      "challengeName": "AI-Powered Chatbot Development",
+      "startDate": "2024-11-01",
+      "endDate": "2024-11-20",
+      "description": "Participants will develop an AI-powered chatbot capable of natural conversation on specific topics.",
+      "image": "https://picsum.photos/300/300?random=3",
+      "levelType": "Easy",
+      "status": "Active"
+
+    },
+    {
+      "id": 4,
+      "challengeName": "Predictive Maintenance Using AI",
+      "startDate": "2024-09-15",
+      "endDate": "2024-10-15",
+      "description": "This challenge focuses on using AI to predict equipment failure and maintenance needs in industrial settings.",
+      "image": "https://picsum.photos/300/300?random=4",
+      "levelType": "Medium",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "challengeName": "AI for Healthcare Diagnosis",
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-31",
+      "description": "Participants will build AI models to assist in the diagnosis of various medical conditions using provided datasets.",
+      "image": "https://picsum.photos/300/300?random=5",
+      "levelType": "Hard",
+      "status": "Active"
+
+    },
+    {
+      "id": 6,
+      "challengeName": "Autonomous Driving Simulation Challenge",
+      "startDate": "2024-08-01",
+      "endDate": "2024-08-31",
+      "description": "Develop AI algorithms for autonomous vehicles in a simulated environment. The goal is to improve decision-making and safety.",
+      "image": "https://picsum.photos/300/300?random=6",
+      "levelType": "Hard",
+      "status": "Active"
+
+    },
+    {
+      "id": 7,
+      "challengeName": "AI in Financial Market Prediction",
+      "startDate": "2024-11-10",
+      "endDate": "2024-11-25",
+      "description": "Participants will create models to predict stock market trends based on historical data and news sentiment.",
+      "image": "https://picsum.photos/300/300?random=7",
+      "levelType": "Medium",
+      "status": "Active"
+
+    },
+    {
+      "id": 8,
+      "challengeName": "AI for Environmental Monitoring",
+      "startDate": "2024-10-05",
+      "endDate": "2024-10-20",
+      "description": "This challenge aims to use AI to monitor environmental changes and predict potential natural disasters.",
+      "image": "https://picsum.photos/300/300?random=8",
+      "levelType": "Easy",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "challengeName": "AI-Based Fraud Detection",
+      "startDate": "2024-09-20",
+      "endDate": "2024-10-05",
+      "description": "Participants will develop AI models to detect fraudulent transactions in financial datasets.",
+      "image": "https://picsum.photos/300/300?random=9",
+      "levelType": "Medium",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "challengeName": "AI in Personalized Marketing",
+      "startDate": "2024-12-10",
+      "endDate": "2024-12-25",
+      "description": "Create AI models that can deliver personalized marketing content to users based on their browsing and purchase history.",
+      "image": "https://picsum.photos/300/300?random=10",
+      "levelType": "Easy",
+      "status": "Active"
+    }
+  ]
+  }
