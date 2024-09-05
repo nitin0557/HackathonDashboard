@@ -36,7 +36,7 @@ const EditDetails: React.FC<EditDetailsProps> = ({
   const handleDelete = () => {
     if (challenge) {
       deleteChallenge(challenge.id);
-      navigate("/");
+      navigate("/hackathon");
     }
   };
 

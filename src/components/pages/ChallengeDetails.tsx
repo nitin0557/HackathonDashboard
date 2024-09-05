@@ -55,7 +55,7 @@ const ChallengeDetails: React.FC<ChallengeDetailsProps> = ({
         levelType,
       };
       updateChallenge(updatedChallenge);
-      navigate("/");
+      navigate("/hackathon");
     }
     closeModal();
   };

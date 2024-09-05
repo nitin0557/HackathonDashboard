@@ -48,7 +48,7 @@ function App() {
           <Navigationbar />
           <Routes>
             <Route
-              path="/"
+              path="/hackathon"
               element={
                 <ListingPage
                   addChallenge={addChallenge}
