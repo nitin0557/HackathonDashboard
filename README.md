@@ -24,13 +24,8 @@ Design & UI:
 
 Assignment Evaluation Process:
 The submitted assignment has been evaluated based on the following key aspects:
-1.	Using Right Technology:
-o	Complete
-2.	Covering Use Cases & Features:
-o	Complete 
-3.	Efficiency:
-o	Complete
-4.	Modularity:
-o	Complete.
-5.	Naming Conventions:
-o	Complete
+1.	Using Right Technology: Complete
+2.	Covering Use Cases & Features: Complete 
+3.	Efficiency: Complete
+4.	Modularity: Complete.
+5.	Naming Conventions: Complete
